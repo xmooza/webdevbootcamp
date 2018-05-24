@@ -1,0 +1,1 @@
+This is a repository to store files and projects from the Udemy course.
